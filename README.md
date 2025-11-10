@@ -168,6 +168,8 @@ CELERY_BEAT_SCHEDULE = {
    - Empathy level
    - Accuracy
    - Relevance
+   - Escalation Need
+   - Completeness
    - Resolution status
    - Fallback count
    - Overall quality score
