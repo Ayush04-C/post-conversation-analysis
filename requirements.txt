@@ -1,0 +1,9 @@
+Django==3.2.6
+djangorestframework==3.14.0
+celery==5.3.4
+redis==5.0.1
+django-crontab==0.7.1
+vaderSentiment==3.3.2
+textstat==0.7.3
+
+
