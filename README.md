@@ -489,14 +489,4 @@ python manage.py runserver 8080
 - Consider using PostgreSQL or MySQL for production environments
 - Add proper authentication/authorization for production APIs
 
-## License
 
-[Add your license information here]
-
-## Contributing
-
-[Add contributing guidelines here]
-
-## Contact
-
-[Add contact information here]
